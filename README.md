@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 My blog: https://www.cizel.cn/
+😄 My blog: https://www.cizel.cn/
 
 <!--
 **cizel/cizel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
